@@ -1,7 +1,7 @@
 {
   "name": "role-based-email-addresses",
-  "version": "1.0.0",
-  "description": "Role-based email addresses have been addresses used by organizations that are defined by a position, job, or group in the company rather than an individual.",
+  "version": "1.0.1",
+  "description": "Common prefixes for \"role-based\" email addresses that represent a position, job, or group of people in the company rather than an individual",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
