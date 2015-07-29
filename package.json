@@ -1,0 +1,25 @@
+{
+  "name": "role-based-email-addresses",
+  "version": "1.0.0",
+  "description": "Role-based email addresses have been addresses used by organizations that are defined by a position, job, or group in the company rather than an individual.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixmaxhq/role-based-email-addresses.git"
+  },
+  "keywords": [
+    "role",
+    "group",
+    "email",
+    "addresses"
+  ],
+  "author": "Mixmax, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/role-based-email-addresses/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/role-based-email-addresses"
+}
