@@ -201,6 +201,7 @@ module.exports = [
   'investors',
   'ispfeedback',
   'ispsupport',
+  'ithelp',
   'jobs',
   'leaders',
   'leadership',
