@@ -202,6 +202,7 @@ module.exports = [
   'ispfeedback',
   'ispsupport',
   'ithelp',
+  'jira',
   'jobs',
   'leaders',
   'leadership',
