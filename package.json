@@ -4,7 +4,8 @@
   "description": "Common prefixes for \"role-based\" email addresses that represent a position, job, or group of people in the company rather than an individual",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/mixmaxhq/role-based-email-addresses/issues"
   },
-  "homepage": "https://github.com/mixmaxhq/role-based-email-addresses"
+  "homepage": "https://github.com/mixmaxhq/role-based-email-addresses",
+  "devDependencies": {
+    "eslint": ">=3",
+    "eslint-config-mixmax": "^0.6.0",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "lint"
+  ]
 }
