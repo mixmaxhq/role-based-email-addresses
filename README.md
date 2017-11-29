@@ -4,7 +4,7 @@ Common prefixes for "role-based" email addresses that represent a position, job,
 
 ## Contributing
 
-Please contribute. Just keep them in alphabetical order please.
+Please contribute. Just keep them in alphabetical order please (the "natural" order that calling `sort()` on the array would return).
 
 ## License
 
