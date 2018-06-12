@@ -11,6 +11,7 @@ module.exports = [
   'account',
   'accountant',
   'accounting',
+  'accountmanager',
   'accountmanagers',
   'accounts',
   'accountspayable',
