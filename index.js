@@ -534,6 +534,7 @@ module.exports = [
   'monitor',
   'monitoring',
   'montreal',
+  'moreinfo',
   'msstaff',
   'msteachers',
   'mt',
