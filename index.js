@@ -216,6 +216,7 @@ module.exports = [
   'company.wide',
   'compete',
   'competition',
+  'complaints',
   'compliance',
   'compras',
   'compta',
