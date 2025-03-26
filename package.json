@@ -1,6 +1,6 @@
 {
   "name": "role-based-email-addresses",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Common prefixes for \"role-based\" email addresses that represent a position, job, or group of people in the company rather than an individual",
   "main": "src/index.js",
   "scripts": {
